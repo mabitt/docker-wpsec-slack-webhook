@@ -8,6 +8,7 @@ Usage:
 docker run \
 -e SLACK_WEBHOOK='url' \
 -p 5000:5000 \
+mabitt/wpsec-slack-webhook
 ```
 
 To debug, add:
